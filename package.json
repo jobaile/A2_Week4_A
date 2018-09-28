@@ -1,0 +1,23 @@
+{
+  "name": "a2_week4_a",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jobaile/A2_Week4_A.git"
+  },
+  "author": "Logan Litman and Joanna Baile",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jobaile/A2_Week4_A/issues"
+  },
+  "homepage": "https://github.com/jobaile/A2_Week4_A#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  }
+}
