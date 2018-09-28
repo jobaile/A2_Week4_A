@@ -1,5 +1,23 @@
-@import '_vars';
+//import all scss variables
 
+@import '_vars';
+@import 'modules/_header';
+@import 'modules/nav';
+@import 'modules/sidebar';
+@import 'modules/_content';
+@import 'modules/_footer';
+
+//import media queries
+
+//write my main rules
 body {
   color: $main_bg;
+}
+
+.box {
+  color: $calendar_weekname_bg;
+}
+
+.container {
+  color: $footer;
 }

@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "AAEA,IAAK,CACH,KAAK,CCFG,OAAO",
-"sources": ["styles.scss","_vars.scss"],
+"mappings": "AAYA,IAAK,CACH,KAAK,CCZG,OAAO,CDejB,IAAK,CACH,KAAK,CEbgB,OAAO,CFgB9B,UAAW,CACT,KAAK,CClBE,IAAO",
+"sources": ["styles.scss","modules/_footer.scss","modules/_content.scss"],
 "names": [],
 "file": "main.css"
 }
